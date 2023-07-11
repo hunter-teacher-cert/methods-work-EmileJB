@@ -1,4 +1,5 @@
-Emile Jean Baptiste - SEDC 71900
+# Emile Jean Baptiste
+## SEDC 71900
 
 - A List is a thing
 - that can be ordered or not
