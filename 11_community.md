@@ -31,11 +31,25 @@ A tertiary potential positive outcome of this is that this website could also be
 
 
 #### Rollout Timeline
-* How long should this take to implement, come to fruition...
-* Significant milestones along the way?
+* Since there are a good number of students, who will have a good number of projects, year after year after year, it is important that the website is built to be easily maintained.
+* Since this is also meant to be a display of student work, there needs to be a focus on optimizing the UI/UX for navigation and presentation.
+* These above two factors means that this website will need to have a lot of forethought put into it.
+* Even after it's made, there then needs to be enough student work to actually populate the site.
 
 #### Mechanism for Gauging Efficacy
-How will you know it is working?
+People talking about CS classes and projects?
 
 #### Expected Hurdles and Plans to Overcome
-* ( if any... )
+A few things that might require some extra planning/detail
+* Cheating
+* Students feeling bad comparing work
+* What to do with archival work (students no longer in the school)
+* Student Privacy
+* Website Size
+* Website Cost?
+* How to optimize engagement with this site within school.
+* Quantity of student work
+
+
+#### Completely Alternative/Side Idea similar to this inspired by my Fieldwork: 
+Find time during or after school where students can opt in to share and talk about their work in person that other students can attend, almost like a gallery walk.
