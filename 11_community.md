@@ -1,6 +1,6 @@
 # Community Building Techniques
 
-### Target Environment: Classroom|School
+### Target Environment: School
 
 School Attributes:
 * school size: ~400 (per grade)
